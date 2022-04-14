@@ -207,6 +207,7 @@ section {
 .header .cart-items-container .btn {
     width: 100%;
     text-align: center;
+    font-size: 1.4rem;
 }
 
 .home {
