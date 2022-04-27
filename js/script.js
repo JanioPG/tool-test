@@ -27,3 +27,4 @@ window.onscroll = () => {
     cartItem.classList.remove("active");
     searchForm.classList.remove("active");
 }
+
